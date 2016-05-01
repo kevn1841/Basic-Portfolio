@@ -1,0 +1,66 @@
+/* Fill in the CSS */
+
+#whole {
+	background-image: url(../images/concrete_seamless.png);	
+}
+
+#h1 {
+	margin-left: 120px;
+	background: #4aaaa5;
+	color: white;
+	width: 230px;
+	padding: 5px;
+	text-align: center;
+	font-family: Georgia;
+	padding-right: 40px;
+	padding-left: 40px;
+	position: relative;
+
+
+}
+
+#about_portfolio_contact {
+	position: relative;
+	left: 990px;
+	bottom: 60px;
+
+
+}
+
+#border {
+	border: 1px solid #dddddd;
+	margin-top: -20px;
+	border-top-width: 3px
+
+}
+
+#about_me {
+	margin-top: 55px;
+	margin-left:120px;
+	border: 1px solid #dddddd;
+	width: 750px;
+	padding-left: 50px;
+	color: #4aaaa5;
+	font-size: 25px;
+	background-color: #fff;
+	padding-bottom: 30px;
+}
+
+#connect_with_me {
+	position : relative;
+	left: 970px;
+	bottom: 463px;
+	color: #4aaaa5;
+	border: 1px solid #dddddd;
+	width:205px;
+	text-align: center;
+	padding: 15px;
+	background-color: #fff;
+	padding-bottom: 25px;
+
+}
+
+#copyright {
+	text-align: center;
+}
+
