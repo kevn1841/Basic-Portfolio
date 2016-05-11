@@ -177,6 +177,8 @@ html, body {
 
 textarea {
 	resize: none;
+	width: 95%;
+
 }
 
 #portfolio_body {
@@ -323,3 +325,18 @@ textarea {
 	bottom: 290px;
 	z-index: 1;
 }
+
+@media screen and (max-width: 980px) {
+	html
+}
+
+@media screen and (max-width: 768px) {
+	html
+}
+
+@media screen and (max-width: 640px) {
+	html
+}
+
+
+
